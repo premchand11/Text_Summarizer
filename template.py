@@ -30,6 +30,7 @@ list_of_files = [
     "Dockerfile",          # Corrected "Dockefile" typo
     "requirements.txt",
     "setup.py",
+    "main.py",
     "research/trials.ipynb",
     "test.py"
 ]
